@@ -1,2 +1,2 @@
+firstname, lastname, email, git_username, repository_name
 Mansi, Tawar, mansi58892@gmail.com, Mansi_Tawar, 2021_ENCM369
-ENCM 369, Geoffrey Messier, mansi.tawar1@ucalgary.ca, UofCencm369, 2021_ENCM369
